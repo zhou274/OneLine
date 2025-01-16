@@ -87,6 +87,7 @@
     <Compile Include="Assets\OneLine\_Scripts\TextM.cs" />
     <Compile Include="Assets\OneLine\MyCombo\Gtil.cs" />
     <Compile Include="Assets\OneLine\MyCombo\Music.cs" />
+    <Compile Include="Assets\OneLine\_Scripts\LevelLockedData.cs" />
     <Compile Include="Assets\OneLine\_Scripts\GridManager.cs" />
     <Compile Include="Assets\OneLine\MyCombo\GameMaster.cs" />
     <Compile Include="Assets\OneLine\MyCombo\SafeAreaHelper.cs" />
@@ -105,7 +106,6 @@
     <Compile Include="Assets\OneLine\MyCombo\SimpleJSON.cs" />
     <Compile Include="Assets\OneLine\_Scripts\UnlockPackageDialog.cs" />
     <Compile Include="Assets\OneLine\MyCombo\ShopDialog.cs" />
-    <Compile Include="Assets\OneLine\_Scripts\LevelLockedData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\OneLine\Plugins\iOS\GADUInterstitial.m" />
