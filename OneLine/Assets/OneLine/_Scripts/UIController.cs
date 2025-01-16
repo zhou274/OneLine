@@ -8,6 +8,8 @@ using TTSDK.UNBridgeLib.LitJson;
 using TTSDK;
 using StarkSDKSpace;
 using UnityEngine.Analytics;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
 #if EASY_MOBILE
 using EasyMobile;
 #endif
@@ -17,6 +19,8 @@ public class UIController : MonoBehaviour
 
     public static int totalLevel = LevelData.totalLevelsPerWorld * LevelData.worldNames.Length;
     public static int totalLevelInWorld = LevelData.totalLevelsPerWorld;
+
+    public List<int> UnLock=new List<int>();
 
     public Transform packagesContent, levelsContent;
 
@@ -59,6 +63,7 @@ public class UIController : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        UnLock.Add(1);
         if (mode == UIMODE.OPENPLAYSCREEN)
         {
             EnablePlayScreen();
@@ -83,7 +88,7 @@ public class UIController : MonoBehaviour
         {
             shopImage.sprite = rateSprite;
         }
-
+        LoadData();
 
         ShowInterstitialAd("1286cn0mmi1611831j",
             () => {
@@ -183,7 +188,15 @@ public class UIController : MonoBehaviour
     //data for level
     public void EnableStageScreen(int indexWorld)
     {
-        if (indexWorld == 1)
+        bool isLocked=true;
+        for(int i=0;i<UnLock.Count;i++)
+        {
+            if (indexWorld == UnLock[i])
+            {
+                isLocked = false;
+            }
+        }
+        if (isLocked==false)
         {
             LevelSetup(indexWorld);
             EnableStageScreen();
@@ -196,6 +209,8 @@ public class UIController : MonoBehaviour
                 {
                     PlayerData.instance.UnLockedLevelForWorld(indexWorld);
                     LevelSetup(indexWorld);
+                    UnLock.Add(indexWorld);
+                    SaveData();
                     EnableStageScreen();
 
                     clickid = "";
@@ -216,6 +231,26 @@ public class UIController : MonoBehaviour
             });
             
             
+        }
+    }
+    void SaveData()
+    {
+        BinaryFormatter formatter = new BinaryFormatter();
+        FileStream fileStream = new FileStream(Application.persistentDataPath + "/save.dat", FileMode.Create);
+
+        formatter.Serialize(fileStream, UnLock);
+        fileStream.Close();
+    }
+    void LoadData()
+    {
+        string path = Application.persistentDataPath + "/save.dat";
+        if (File.Exists(path))
+        {
+            BinaryFormatter formatter = new BinaryFormatter();
+            FileStream fileStream = new FileStream(path, FileMode.Open);
+
+            UnLock = formatter.Deserialize(fileStream) as List<int>;
+            fileStream.Close();
         }
     }
 

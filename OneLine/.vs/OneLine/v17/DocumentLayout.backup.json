@@ -1,48 +1,67 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unity\\OneLine\\",
+  "WorkspaceRootPath": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|d:\\unity\\oneline\\assets\\oneline\\_scripts\\textmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\\u989C\u8272\u82F1\u96C4\\ColorHero\\Assets\\StreamingAssets\\localization_zhCN.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|d:\\unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\oneline\\assets\\oneline\\_scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\assets\\oneline\\_scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\assets\\oneline\\_scripts\\uicontrollerforgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\uicontrollerforgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\assets\\oneline\\_scripts\\pathreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\pathreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|d:\\unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\oneline\\assets\\oneline\\_scripts\\levellockeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\levellockeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\assets\\oneline\\_scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\assets\\oneline\\_scripts\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\assets\\oneline\\_scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\assets\\oneline\\_scripts\\textmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\textmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\assets\\oneline\\mycombo\\purchaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\mycombo\\purchaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\assets\\oneline\\_scripts\\unlockpackagedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\unlockpackagedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\assets\\oneline\\_scripts\\dotanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\dotanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\assets\\oneline\\_scripts\\animationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\animationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\OneLine\\assets\\oneline\\_scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\OneLine\\assets\\oneline\\_scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\OneLine\\assets\\oneline\\_scripts\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\OneLine\\assets\\oneline\\_scripts\\uicontrollerforgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\uicontrollerforgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\OneLine\\assets\\oneline\\_scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\OneLine\\assets\\oneline\\_scripts\\dotanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\dotanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\OneLine\\assets\\oneline\\_scripts\\unlockpackagedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\_scripts\\unlockpackagedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|D:\\Unity\\OneLine\\assets\\oneline\\mycombo\\purchaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D04E8D05-6758-F355-021F-1D3A11CB6601}|Assembly-CSharp.csproj|solutionrelative:assets\\oneline\\mycombo\\purchaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,122 +71,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ADManager.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T05:29:57.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UIController.cs",
-              "DocumentMoniker": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\UIController.cs",
-              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\UIController.cs",
-              "ToolTip": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\UIController.cs",
-              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\UIController.cs",
-              "ViewState": "AgIAAEMBAAAAAAAAAAAswLIBAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T03:13:31.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CebianlanManager(1).cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
-              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAAAI4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T05:27:03.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CebianlanManager.cs",
-              "DocumentMoniker": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\CebianlanManager.cs",
-              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\CebianlanManager.cs",
-              "ToolTip": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\CebianlanManager.cs",
-              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\CebianlanManager.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAwI0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T05:26:44.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UIControllerForGame.cs",
-              "DocumentMoniker": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\UIControllerForGame.cs",
-              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\UIControllerForGame.cs",
-              "ToolTip": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\UIControllerForGame.cs",
-              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\UIControllerForGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:46:05.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LevelData.cs",
-              "DocumentMoniker": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\LevelData.cs",
-              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\LevelData.cs",
-              "ToolTip": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\LevelData.cs",
-              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\LevelData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:29:25.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DotAnimation.cs",
-              "DocumentMoniker": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\DotAnimation.cs",
-              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\DotAnimation.cs",
-              "ToolTip": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\DotAnimation.cs",
-              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\DotAnimation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T04:23:18.025Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TextManger.cs",
-              "DocumentMoniker": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\TextManger.cs",
-              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\TextManger.cs",
-              "ToolTip": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\TextManger.cs",
-              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\TextManger.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFsAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T03:50:52.828Z",
+              "Title": "localization_zhCN.json",
+              "DocumentMoniker": "D:\\Unity\\\u989C\u8272\u82F1\u96C4\\ColorHero\\Assets\\StreamingAssets\\localization_zhCN.json",
+              "RelativeDocumentMoniker": "..\\..\\\u989C\u8272\u82F1\u96C4\\ColorHero\\Assets\\StreamingAssets\\localization_zhCN.json",
+              "ToolTip": "D:\\Unity\\\u989C\u8272\u82F1\u96C4\\ColorHero\\Assets\\StreamingAssets\\localization_zhCN.json",
+              "RelativeToolTip": "..\\..\\\u989C\u8272\u82F1\u96C4\\ColorHero\\Assets\\StreamingAssets\\localization_zhCN.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T08:31:10.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "LevelLockedData.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\LevelLockedData.cs",
+              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\LevelLockedData.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\LevelLockedData.cs",
+              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\LevelLockedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:16:54.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PathReader.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\PathReader.cs",
+              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\PathReader.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\PathReader.cs",
+              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\PathReader.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAYwAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:49:04.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIControllerForGame.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\UIControllerForGame.cs",
+              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\UIControllerForGame.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\UIControllerForGame.cs",
+              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\UIControllerForGame.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:46:05.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PlayerData.cs",
-              "DocumentMoniker": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\PlayerData.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\PlayerData.cs",
               "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\PlayerData.cs",
-              "ToolTip": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\PlayerData.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\PlayerData.cs",
               "RelativeToolTip": "Assets\\OneLine\\_Scripts\\PlayerData.cs",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAgwKwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAcwMkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T03:25:35.775Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "TextManger.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\TextManger.cs",
+              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\TextManger.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\TextManger.cs",
+              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\TextManger.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAiwPYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:50:52.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\UIController.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\UIController.cs",
+              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\UIController.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAkwMAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T03:13:31.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UnlockPackageDialog.cs",
-              "DocumentMoniker": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\UnlockPackageDialog.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\UnlockPackageDialog.cs",
               "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\UnlockPackageDialog.cs",
-              "ToolTip": "D:\\Unity\\OneLine\\Assets\\OneLine\\_Scripts\\UnlockPackageDialog.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\UnlockPackageDialog.cs",
               "RelativeToolTip": "Assets\\OneLine\\_Scripts\\UnlockPackageDialog.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAIwDQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T03:16:04.202Z"
             },
@@ -175,13 +178,96 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Purchaser.cs",
-              "DocumentMoniker": "D:\\Unity\\OneLine\\Assets\\OneLine\\MyCombo\\Purchaser.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\MyCombo\\Purchaser.cs",
               "RelativeDocumentMoniker": "Assets\\OneLine\\MyCombo\\Purchaser.cs",
-              "ToolTip": "D:\\Unity\\OneLine\\Assets\\OneLine\\MyCombo\\Purchaser.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\MyCombo\\Purchaser.cs",
               "RelativeToolTip": "Assets\\OneLine\\MyCombo\\Purchaser.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAkwIcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAANQAAAAAAAAAAAAqwJ4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T03:09:00.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CebianlanManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\CebianlanManager.cs",
+              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\CebianlanManager.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\CebianlanManager.cs",
+              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\CebianlanManager.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwG4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:26:44.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LevelData.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\LevelData.cs",
+              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\LevelData.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\LevelData.cs",
+              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\LevelData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:29:25.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\GridManager.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\GridManager.cs",
+              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\GridManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:48:57.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnimationHandler.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\AnimationHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\AnimationHandler.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\AnimationHandler.cs",
+              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\AnimationHandler.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAgwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:48:33.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CebianlanManager(1).cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAI4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:27:03.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ADManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2024-12\\ADManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:29:57.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DotAnimation.cs",
+              "DocumentMoniker": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\DotAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\OneLine\\_Scripts\\DotAnimation.cs",
+              "ToolTip": "D:\\Unity\\\u4E00\u7B14\u7EC3\u6210\u62C9\u53D6\\OneLine\\Assets\\OneLine\\_Scripts\\DotAnimation.cs",
+              "RelativeToolTip": "Assets\\OneLine\\_Scripts\\DotAnimation.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:23:18.025Z"
             }
           ]
         }
