@@ -18,7 +18,7 @@ public class TextManger : MonoBehaviour
 
     public void showHints()
     {
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("9a1hj4eafii1396khd",
             (bol) => {
                 if (bol)
                 {

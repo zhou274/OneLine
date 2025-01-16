@@ -83,6 +83,15 @@ public class UIController : MonoBehaviour
         {
             shopImage.sprite = rateSprite;
         }
+
+
+        ShowInterstitialAd("1286cn0mmi1611831j",
+            () => {
+
+            },
+            (it, str) => {
+                Debug.LogError("Error->" + str);
+            });
     }
 
     public void PlayButtonSound()
@@ -181,7 +190,7 @@ public class UIController : MonoBehaviour
         }
         else
         {
-            ShowVideoAd("192if3b93qo6991ed0",
+            ShowVideoAd("9a1hj4eafii1396khd",
             (bol) => {
                 if (bol)
                 {

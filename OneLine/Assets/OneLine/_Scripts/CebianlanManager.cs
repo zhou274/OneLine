@@ -60,7 +60,7 @@ public class CebianlanManager : MonoBehaviour
         if (mStarkGridGamePanelManager != null)
         {
             JsonData query = new JsonData();
-            query["tt38e84e55a7dc353c02"] = "";
+            query["tt8aeffc5215db6d6b02"] = "";
             JsonData position = new JsonData();
             position["top"] = 150;
             position["left"] = 30;
